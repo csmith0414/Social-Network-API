@@ -10,7 +10,7 @@ const app = express();
 
 //Setup Middleware
 app.use(express.urlencoded({ extended: true }));
-app.use.apply(express.json());
+app.use(express.json());
 app.use(routes);
 
 //Setting up server to list for requests and send responses
