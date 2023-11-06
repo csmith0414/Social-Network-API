@@ -11,6 +11,21 @@ const users = [
     email: 'jdoe@gmail.com',
     thought: [],
   },
+  {
+    username: 'csmith',
+    email: 'csmith@yahoo.com',
+    thought: [],
+  },
+  {
+    username: 'JaneJackson',
+    email: 'jjackson@hotmail.com',
+    thought: [],
+  },
+  {
+    username: 'Bobby',
+    email: 'bobhanks@gmail.com',
+    thought: [],
+  },
 ];
 
 console.log(connection);
